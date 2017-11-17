@@ -46,4 +46,4 @@ As you can see, that works because paths (i.e. /sap/bc/ui2/app_index/ui5_app_inf
     grunt
 	```
 
-Check the dist folder.
+	Check the dist folder.
